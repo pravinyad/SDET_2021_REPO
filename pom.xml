@@ -79,7 +79,7 @@
 						<configuration>
 							<suiteXmlFiles>
 								<!-- TestNG suite XML files -->
-								<suiteXmlFile>testngSmoke.xml</suiteXmlFile>
+								<suiteXmlFile>testngsmokeTest.xml</suiteXmlFile>
 							</suiteXmlFiles>
 						</configuration>
 					</plugin>
@@ -103,7 +103,7 @@
 						<configuration>
 							<suiteXmlFiles>
 								<!-- TestNG suite XML files -->
-								<suiteXmlFile>testngSmoke.xml</suiteXmlFile>
+								<suiteXmlFile>testngregressionTest.xml</suiteXmlFile>
 							</suiteXmlFiles>
 						</configuration>
 					</plugin>

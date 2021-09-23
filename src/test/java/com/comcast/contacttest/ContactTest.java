@@ -8,6 +8,8 @@ public class ContactTest {
 		System.out.println("execute 1");
 		
 	}
+	
+	
 	@Test(groups="regressionTest")
 	public void createContatc2Test() {
 		System.out.println("execute 2");
