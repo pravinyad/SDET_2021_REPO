@@ -68,7 +68,7 @@
   
   <profiles>
 		<profile>
-			<id>smoketest</id>
+			<id>smoke</id>
 			<build>
 				<plugins>
 					<!-- Below plug-in is used to execute tests -->
@@ -92,7 +92,7 @@
 
 	
 		<profile>
-			<id>smoketest</id>
+			<id>regression</id>
 			<build>
 				<plugins>
 					<!-- Below plug-in is used to execute tests -->
